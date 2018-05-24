@@ -1,0 +1,55 @@
+.login-panel {  
+        margin-top: 150px;  
+		}
+		
+		.panel-success>.panel-heading
+		{
+		font-size:30px;
+		font-weight:600;
+		color:#fff;
+	    background-color: #00BCD4;
+        border: none;
+		
+		}
+		.panel-title
+		{
+		font-size: 30px;
+		font-weight: 600;
+		color: #fff;
+		text-align: center;
+		}
+		.panel-body
+		{
+		padding: 30px;
+        margin-top: 15px;
+		}
+		.form-group
+		{
+		margin-bottom: 30px;
+		}
+		input[type="submit"]
+		{
+		margin-top: 12px;
+		margin-bottom:12px;
+		font-weight: 600;
+		}
+		input[type="checkbox"]
+		{
+		margin-right:5px;
+		}
+		input.largerCheckbox
+		{
+		width: 20px;
+		height: 20px;
+		}
+h1{
+text-align:center;
+margin-top:30px;
+text-shadow: 2px 3px 3px red;
+
+}
+p{
+text-align:right;
+margin-top:12px;
+}
+
